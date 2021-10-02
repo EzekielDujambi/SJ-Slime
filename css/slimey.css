@@ -11,17 +11,14 @@ header{
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-}
 
-h1, h2{
-    font-family: 'Ephesis', cursive;
 }
-
 /* header styles*/
 
-header h1{
+h1{
     color: white;
-    font-size: 101px;
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 header img{
@@ -42,7 +39,7 @@ main img{
 }
 
 p.caption{
-    color: #999999;
+    color: #999999; 
     font-style: italic;
     margin-top: 0;
 }
@@ -51,6 +48,7 @@ h2{
     color: #A52AD3;
     margin: 40px 0 10px;
     text-align: center;
+    font-family: 'Ephesis', cursive;
 }
 
 a{
